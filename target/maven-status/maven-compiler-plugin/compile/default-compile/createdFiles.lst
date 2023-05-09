@@ -1,0 +1,6 @@
+com\example\demo\repositorio\IAHabitacionRepositorio.class
+com\example\demo\ParcialHotelApplication.class
+com\example\demo\entidades\Habitacion.class
+com\example\demo\controlador\HabitacionControlador.class
+com\example\demo\servicios\HabitacionServicios.class
+com\example\demo\ServletInitializer.class
